@@ -1,8 +1,10 @@
 # Bootstrap-portfolio
 
-This project contains information about me and my projects It shows the work I have taken part in as a developer and my contact information.
+This project contains information about me and my projects.It shows the work I have taken part in as a developer and my contact information.
 
 ## Built With
+
+* Bootstrap
 
 * HTML
 
@@ -23,10 +25,6 @@ This project contains information about me and my projects It shows the work I h
 * git clone "repository link"
 
 4 The project is then on your local
-
-## Live Demo
-
-Link:[@Personalportfolio]( https://kemigabocatherine.github.io/Personal---Portfolio/)
 
 ## Contact
 
