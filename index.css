@@ -4,9 +4,8 @@
 
 .home {
   background-color: #fff;
-  height: 720px;
+  height: 800px;
   border-bottom-left-radius: 10%;
-
 }
 
 .headline {
@@ -28,10 +27,6 @@
   color: #172b4d;
   line-height: 110%;
   padding-top: 20%;
-}
-
-.p {
-  color: #344563;;
 }
 
 .connect {
@@ -80,8 +75,8 @@
 .pro:enabled,
 .resume:enabled,
 .submit:enabled {
-    background: #fff;
-    color: #6070ff;
+  background: #fff;
+  color: #6070ff;
 }
 
 .pro:hover,
@@ -111,7 +106,7 @@
   height: 1250px;
 }
 
-.heading {
+.aboutme {
   margin-top: 30px;
 }
 
@@ -119,6 +114,7 @@
   background-color: #f7f7f9;
   border-radius: 8px;
 }
+
 .ellip {
   margin-top: 20px;
 }
@@ -179,8 +175,4 @@ textarea {
 .card,
 .about {
   margin-top: 110px;
-}
-
-.home {
-  height: 800px;
 }
