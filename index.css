@@ -94,7 +94,7 @@
 }
 
 .pro:disabled,
-.resume:disabled
+.resume:disabled,
 .submit:disabled {
   border: 1px solid #c1c7d0;
   color: #5e6c84;
@@ -145,7 +145,7 @@
 
 input[type=text],
 input[type=email],
-textarea  {
+textarea {
   width: 85%;
   border: 1px solid #cfd8dc;
   font-weight: 400;
