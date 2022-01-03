@@ -104,7 +104,8 @@
 .about {
   background-color: #fff;
   border-top-right-radius: 90px;
-  height: 1300px;
+  height: 1250px;
+  margin-top: ;
 }
 
 .heading {
@@ -124,7 +125,7 @@
 }
 
 .contactme {
-  height: 780px;
+  height: 760px;
   background-color: #6070ff;
   margin-top: -25%;
   border-top-left-radius: 90px;
@@ -139,8 +140,6 @@
 .paragraph {
   font-weight: 380;
   text-align: center;
-  /*padding-left: 7%;
-  padding-right: 7%;*/
 }
 
 input[type=text],
@@ -148,7 +147,7 @@ input[type=email],
 textarea  {
   width: 85%;
   border: 1px solid #cfd8dc;
-  border-radius: 8px;
+  border-radius: ;
   font-weight: 400;
   color: #172b4d;
 }
@@ -156,3 +155,4 @@ textarea  {
 textarea {
   height: 170px;
 }
+
